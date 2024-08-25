@@ -1,0 +1,1 @@
+Se cambio el puerto en el que corre el backend del 5000 al 9000, debido a que en Mac OS el puerto 5000 esta reservado para un proceso de sistema.
